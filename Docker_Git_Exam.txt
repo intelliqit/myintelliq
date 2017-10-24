@@ -1,0 +1,70 @@
+			GIT and Docker
+			--------------
+		       ----------------
+
+1  Difference between working area,staging area and git repository
+
+2  Command to remove files from staging area of GIT.
+
+3  Command to add all files present in a directlry to stagging area
+
+4  How to commit into GIT local repository
+
+5  Commands for configuring username and email globally
+
+6  Difference between local and remote repository
+
+7  What are the advantages of using branches
+
+8  What is the default branch in GIT
+
+9  How to create branches
+
+10 Comand to switch into a branch
+
+11 Steps for merging a branch with master branch
+
+12 Difference between Centralzed Version Controlling and Distributed Version Controlling
+
+13 Difference between a VM and a Container
+
+14 Difference between image and container
+
+15 Command to download an ubuntu image from docker hub
+
+16 Command to run the alpine linux image in interactive mode and also to get into the shell
+
+17 Command to stop all running containers
+
+18 Command to remove all running containers
+
+19 Command to remove an image 
+
+20 Write down the process of creating a local image repository
+
+21 Run nginx in detached mode and and assign a name as webserver
+
+22 Run nginx and assign it to an internal port 80 and external host posrt 8080
+
+23 List the ports of the above nginx
+
+24 Run a busybox container and install mysql into it.Save the image with name intelliq/busybox-mysql
+
+25 Upload the above image into docker hub
+
+26 What is the advantage of using data volumes
+
+27 How to create data volume
+
+28 Command to mount a data voulme into a busy box container
+
+29 Create  a datavolume and mount busy box container and share the data volume with ubuntu container
+
+30 Command to restart a container
+
+
+
+
+
+
+ 
